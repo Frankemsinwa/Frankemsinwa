@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a full-stack MERN developer with five years of proven experience.
+I'm a full-stack PERN and mobile app developer with four years of proven experience.
 
 
 ## 🌐Socials
